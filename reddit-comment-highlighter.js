@@ -6,6 +6,7 @@
 // @namespace    Tumri
 // @author       Tumri
 // @copyright    2020+, Tumri Ganguri (g.tumri@gmail.com)
+// @homepageURL  https://github.com/tumri/UserScripts
 // @downloadURL  https://raw.githubusercontent.com/tumri/UserScripts/master/reddit-comment-highlighter.js
 // @updateURL    https://raw.githubusercontent.com/tumri/UserScripts/master/reddit-comment-highlighter.js
 // @include      /^https?:\/\/([a-z]+\.)?reddit\.com\/r\/[a-zA-Z0-9_-]+\/comments\/[0-9a-z]+\/[^/]+\//

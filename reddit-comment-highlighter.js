@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Reddit Comment Highlighter
+// @description  Highlights New Comments
+// @version      0.1
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/favicon-16x16.png
 // @namespace    Tumri
-// @version      0.1
-// @description  Highlights New Comments
 // @author       Tumri
 // @copyright    2020+, Tumri Ganguri (g.tumri@gmail.com)
+// @downloadURL  https://raw.githubusercontent.com/tumri/UserScripts/master/reddit-comment-highlighter.js
+// @updateURL    https://raw.githubusercontent.com/tumri/UserScripts/master/reddit-comment-highlighter.js
 // @include      /^https?:\/\/([a-z]+\.)?reddit\.com\/r\/[a-zA-Z0-9_-]+\/comments\/[0-9a-z]+\/[^/]+\//
 // @require      https://cdn.jsdelivr.net/npm/xxhashjs@0.2.2/build/xxhash.min.js
 // @require      https://cdn.jsdelivr.net/npm/flatpickr@4.6.3/dist/flatpickr.min.js
